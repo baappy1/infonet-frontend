@@ -8,7 +8,7 @@ export default function BlogCard(){
                 <Image
                     width={393}
                     height={270}
-                    className="mb-[20px] overflow-hidden relative rounded-[8px]" 
+                    className="mb-[20px] w-full overflow-hidden relative rounded-[8px]" 
                     src="https://staging.hellonotionhive.com/wordpress/infonet/wp-content/uploads/2026/01/image-15.png" />
                     
                     <div className="flex items-center gap-[10px] mb-[20px]">
