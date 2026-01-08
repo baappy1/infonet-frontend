@@ -3840,18 +3840,18 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 function BlogCard() {
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(7);
-    if ($[0] !== "2cd03951a459f8e72b81f94f14d4401a48295edd75fe0a2bc0b279d3aefff5bf") {
+    if ($[0] !== "90680e10d7fea6cd66e787655fd2d34ae803b01446b5e70a041132d16034dbbb") {
         for(let $i = 0; $i < 7; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "2cd03951a459f8e72b81f94f14d4401a48295edd75fe0a2bc0b279d3aefff5bf";
+        $[0] = "90680e10d7fea6cd66e787655fd2d34ae803b01446b5e70a041132d16034dbbb";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
         t0 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
             width: 393,
             height: 270,
-            className: "mb-[20px] overflow-hidden relative rounded-[8px]",
+            className: "mb-[20px] w-full overflow-hidden relative rounded-[8px]",
             src: "https://staging.hellonotionhive.com/wordpress/infonet/wp-content/uploads/2026/01/image-15.png"
         }, void 0, false, {
             fileName: "[project]/components/Home/BlogCard.jsx",
